@@ -55,6 +55,7 @@ public class Main {
 */
                 for(int i = 0; i < rs.getFetchSize(); i++){
                     arResults.add(rs.getString(i));
+                    //test
                 }
 
             }
