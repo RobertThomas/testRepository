@@ -37,6 +37,7 @@ public class Gui extends Main
                 // display/center the jdialog when the button is pressed
                 System.out.println("-------Clear line-------");
                 mainInstance.findBoB();
+                System.out.println("-------Clear line-------");
 
             }
         });
